@@ -16,7 +16,7 @@ public class EntranceController {
 
     @GetMapping("/test")
     public String entranceTest(){
-        return "hello word";
+        return "hello word2222";
     }
 
 }
